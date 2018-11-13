@@ -15,5 +15,26 @@ print """
 # variable do not make the program faster.
 # it makes it slower
 
-theBestClass = "the 11-18 immersive"
-print theBestClass
+# theBestClass = "the 11-18 immersive"
+# print theBestClass
+# Programming languages see different types of variables differently
+# -String -English stuff.
+# - Number- I think you know what this is. Something with numbers (or -or else)
+# print 3.3e10+"Joe"
+# -- float = it has a . in it
+# -- integer = it has no .
+  
+  
+
+#    print theBestClass
+# Programming languages see different types of variables differently
+# -String -English stuff.
+# - Number- I think you know what this is. Something with numbers (or -or else)
+# print 3.3e10+"Joe"
+# -- float = it has a . in it
+# -- integer = it has no .
+#ish stuff.
+# - Number- I think you know what this is. Something with numbers (or -or else)
+# print 3.3e10+"Joe"
+# -- float = it has a . in it
+# -- integer = it has no 
