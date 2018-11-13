@@ -24,7 +24,7 @@ print """
 # -- float = it has a . in it
 # -- integer = it has no .
   
-  
+
 
 #    print theBestClass
 # Programming languages see different types of variables differently
@@ -38,3 +38,18 @@ print """
 # print 3.3e10+"Joe"
 # -- float = it has a . in it
 # -- integer = it has no 
+
+month = "November";
+print type(month)
+date = 13
+print type(date)
+dateAsFloat = 13.0
+print type(dateAsFloat)
+aBool = True
+print type(aBool)
+aList = []
+print type(aList)
+aDictionary = {}
+print type(aDictionary)
+
+
