@@ -1,0 +1,16 @@
+    1  Developement/11-12-2018/unit1
+    2  c
+    3  git init
+    4  cd ~
+    5  pwd
+    6  cd Developement/11-12-2018/unit1
+    7  history
+    8  open history
+    9  open history.txt
+   10  history > history.txt
+   11  open history.txt
+   12* zsh
+   13* cd ~
+   14  history
+   15  history > history .txt
+   16  pwd
